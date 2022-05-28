@@ -1,0 +1,1 @@
+﻿global using CommunityPOS.EB.Domain.Entities;

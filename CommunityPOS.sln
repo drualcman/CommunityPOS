@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Enterprice Business Rules", "1. Enterprice Business Rules", "{FC5156B3-7820-4801-BC88-F996401EDA1C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Applicatioin Business Rules", "2. Applicatioin Business Rules", "{A5EBE6C4-60F0-4F77-ACA3-F0B64383E046}"
+	ProjectSection(SolutionItems) = preProject
+		UseCases.txt = UseCases.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Interface Adapters", "3. Interface Adapters", "{38E3FE07-21A5-4174-A84A-86883204C3FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Frameworks and Drivers", "4. Frameworks and Drivers", "{0E212A26-AEA7-49FC-B73C-34FCB50E236D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommunityPOS.EB.Domain", "CommunityPOS.EB.Domain\CommunityPOS.EB.Domain.csproj", "{7ADC1648-44EF-456C-B8B1-2A204C8B6ED3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ADC1648-44EF-456C-B8B1-2A204C8B6ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ADC1648-44EF-456C-B8B1-2A204C8B6ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ADC1648-44EF-456C-B8B1-2A204C8B6ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ADC1648-44EF-456C-B8B1-2A204C8B6ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7ADC1648-44EF-456C-B8B1-2A204C8B6ED3} = {FC5156B3-7820-4801-BC88-F996401EDA1C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74887A94-EBED-4958-A6EE-60A7027DAE1F}
+	EndGlobalSection
+EndGlobal
