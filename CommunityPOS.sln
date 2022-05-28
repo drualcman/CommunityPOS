@@ -6,9 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Enterprice Business Rules", "1. Enterprice Business Rules", "{FC5156B3-7820-4801-BC88-F996401EDA1C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Applicatioin Business Rules", "2. Applicatioin Business Rules", "{A5EBE6C4-60F0-4F77-ACA3-F0B64383E046}"
-	ProjectSection(SolutionItems) = preProject
-		UseCases.txt = UseCases.txt
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Interface Adapters", "3. Interface Adapters", "{38E3FE07-21A5-4174-A84A-86883204C3FA}"
 EndProject
